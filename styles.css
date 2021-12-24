@@ -1,5 +1,13 @@
+.pepega-wrap {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center; 
+}
+
 @media (prefers-reduced-motion: no-preference) {
-  #pepega {
+  .pepega {
     animation: Pepega-spin infinite 20s linear;
   }
 }
