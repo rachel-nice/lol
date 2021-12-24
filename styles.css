@@ -36,10 +36,10 @@ body {
 
 @keyframes Pepega-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(0deg) translateY(-4%);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(360deg) translateY(4%);
   }
 }
 
